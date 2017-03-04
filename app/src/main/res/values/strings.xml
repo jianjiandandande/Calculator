@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <drawable name="clr_normal">#FFFDFBFA</drawable>
+    <drawable name="clr_pressed">#baada6</drawable>
+</resources>
